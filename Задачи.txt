@@ -1,0 +1,6 @@
+1. Пример, когда нужен weak
+2. Имитация прихода пакетов с данными по сети(Server, Socket, Router, Client, Package Hierarchy). Operators is, as.
+3. Event bus with exceptions.
+4. Вложенные функции и исключения.
+5. Моделирование очереди.
+6. Графический редактор
